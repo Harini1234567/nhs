@@ -1,0 +1,6 @@
+﻿Field,Code,Item,Count,Total studies,% of studies
+Retrospective or Prospective,F05_retrospective,Retrospective,27,32,84.38
+Retrospective or Prospective,F05_prospective,Prospective,2,32,6.25
+Retrospective or Prospective,F05_not_reported_prospective_collection_suggested,Not reported (prospective collection suggested),1,32,3.12
+Retrospective or Prospective,F05_retrospective_with_prospective_temporal_validation,Retrospective with prospective temporal validation,1,32,3.12
+Retrospective or Prospective,F05_retrospective_prospective_validation_of_extraction_subtask_only,Retrospective; prospective validation of extraction subtask only,1,32,3.12

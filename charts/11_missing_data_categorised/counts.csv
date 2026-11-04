@@ -1,0 +1,18 @@
+﻿Field,Code,Item,Count,Total studies,% of studies
+missing data categorised,F11_complete_case_exclusion,Complete-case exclusion,8,32,25.0
+missing data categorised,F11_not_reported,Not reported,8,32,25.0
+missing data categorised,F11_advanced_imputation,Advanced imputation,7,32,21.88
+missing data categorised,F11_simple_imputation,Simple imputation,5,32,15.62
+missing data categorised,F11_outcome_data_exclusion,Outcome-data exclusion,3,32,9.38
+missing data categorised,F11_variable_exclusion,Variable exclusion,3,32,9.38
+missing data categorised,F11_advanced_imputation_method_unspecified,Advanced imputation (method unspecified),1,32,3.12
+missing data categorised,F11_assumption_based_imputation,Assumption-based imputation,1,32,3.12
+missing data categorised,F11_data_recovery,Data recovery,1,32,3.12
+missing data categorised,F11_follow_up_exclusion,Follow-up exclusion,1,32,3.12
+missing data categorised,F11_imputation_method_unspecified,Imputation (method unspecified),1,32,3.12
+missing data categorised,F11_missingness_indicators,Missingness indicators,1,32,3.12
+missing data categorised,F11_native_missing_value_handling,Native missing-value handling,1,32,3.12
+missing data categorised,F11_other_imputation,Other imputation,1,32,3.12
+missing data categorised,F11_record_exclusion,Record exclusion,1,32,3.12
+missing data categorised,F11_technical_quality_exclusion,Technical-quality exclusion,1,32,3.12
+missing data categorised,F11_unknown_category_coding,Unknown-category coding,1,32,3.12

@@ -1,0 +1,9 @@
+﻿Field,Code,Item,Count,Total studies,% of studies
+Prediction Task (Outcome Predicted),F07_1_binary_classification_task,1 binary classification task,21,32,65.62
+Prediction Task (Outcome Predicted),F07_2_binary_classification_tasks,2 binary classification tasks,4,32,12.5
+Prediction Task (Outcome Predicted),F07_3_binary_classification_tasks,3 binary classification tasks,2,32,6.25
+Prediction Task (Outcome Predicted),F07_4_binary_classification_tasks,4 binary classification tasks,2,32,6.25
+Prediction Task (Outcome Predicted),F07_1_regression_task,1 regression task,1,32,3.12
+Prediction Task (Outcome Predicted),F07_2_regression_tasks,2 regression tasks,1,32,3.12
+Prediction Task (Outcome Predicted),F07_5_binary_classification_tasks,5 binary classification tasks,1,32,3.12
+Prediction Task (Outcome Predicted),F07_6_binary_classification_tasks,6 binary classification tasks,1,32,3.12

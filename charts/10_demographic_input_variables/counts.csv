@@ -1,0 +1,14 @@
+﻿Field,Code,Item,Count,Total studies,% of studies
+Demographic Input Variables,F10_bmi,BMI,26,32,81.25
+Demographic Input Variables,F10_age,Age,22,32,68.75
+Demographic Input Variables,F10_race,race,4,32,12.5
+Demographic Input Variables,F10_weight,weight,4,32,12.5
+Demographic Input Variables,F10_age_at_diagnosis,Age at diagnosis,3,32,9.38
+Demographic Input Variables,F10_age_at_surgery,Age at surgery,3,32,9.38
+Demographic Input Variables,F10_ethnicity,ethnicity,3,32,9.38
+Demographic Input Variables,F10_height,height,3,32,9.38
+Demographic Input Variables,F10_bmi_category,BMI category,2,32,6.25
+Demographic Input Variables,F10_breast_cup_size,breast cup size,2,32,6.25
+Demographic Input Variables,F10_not_reported,Not reported,2,32,6.25
+Demographic Input Variables,F10_obesity,obesity,1,32,3.12
+Demographic Input Variables,F10_sex,sex,1,32,3.12

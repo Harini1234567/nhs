@@ -1,0 +1,9 @@
+﻿Field,Code,Item,Count,Total studies,% of studies
+Validation Method,F12_cross_validation,Cross-validation,21,32,65.62
+Validation Method,F12_hold_out_train_test_validation_split,Hold-out / train-test-validation split,20,32,62.5
+Validation Method,F12_external_validation_as_labelled,External validation (as labelled),7,32,21.88
+Validation Method,F12_bootstrap_validation_optimism_correction,Bootstrap validation / optimism correction,3,32,9.38
+Validation Method,F12_bootstrap_confidence_intervals,Bootstrap confidence intervals,2,32,6.25
+Validation Method,F12_temporal_validation_same_institution,Temporal validation (same institution),2,32,6.25
+Validation Method,F12_not_clearly_reported,Not clearly reported,1,32,3.12
+Validation Method,F12_out_of_bag_validation,Out-of-bag validation,1,32,3.12

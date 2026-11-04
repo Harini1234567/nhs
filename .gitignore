@@ -1,0 +1,11 @@
+# Local analysis files and installed packages
+/outputs/
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Source workbooks stay local
+*.xlsx
+~$*
+.DS_Store

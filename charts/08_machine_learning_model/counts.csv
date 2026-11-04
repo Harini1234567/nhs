@@ -1,0 +1,29 @@
+﻿Field,Code,Item,Count,Total studies,% of studies
+Machine Learning Model,F08_random_forest,Random Forest,18,32,56.25
+Machine Learning Model,F08_neural_network,Neural Network,13,32,40.62
+Machine Learning Model,F08_xgboost,XGBoost,11,32,34.38
+Machine Learning Model,F08_logistic_regression,Logistic Regression,10,32,31.25
+Machine Learning Model,F08_svm,SVM,8,32,25.0
+Machine Learning Model,F08_decision_tree,Decision Tree,7,32,21.88
+Machine Learning Model,F08_knn,KNN,7,32,21.88
+Machine Learning Model,F08_elastic_net_logistic_regression,Elastic Net Logistic Regression,6,32,18.75
+Machine Learning Model,F08_lightgbm,LightGBM,4,32,12.5
+Machine Learning Model,F08_adaboost,AdaBoost,3,32,9.38
+Machine Learning Model,F08_gaussian_naive_bayes,Gaussian Naive Bayes,3,32,9.38
+Machine Learning Model,F08_lasso_logistic_regression,LASSO Logistic Regression,3,32,9.38
+Machine Learning Model,F08_regularised_logistic_regression,Regularised Logistic Regression,3,32,9.38
+Machine Learning Model,F08_linear_regression,Linear Regression,2,32,6.25
+Machine Learning Model,F08_mars,MARS,2,32,6.25
+Machine Learning Model,F08_multivariable_logistic_regression,Multivariable Logistic Regression,2,32,6.25
+Machine Learning Model,F08_voting_ensemble,Voting Ensemble,2,32,6.25
+Machine Learning Model,F08_bagged_trees,Bagged Trees,1,32,3.12
+Machine Learning Model,F08_ensemble_models,Ensemble Models,1,32,3.12
+Machine Learning Model,F08_firth_logistic_regression,Firth Logistic Regression,1,32,3.12
+Machine Learning Model,F08_gradient_boosting,Gradient Boosting,1,32,3.12
+Machine Learning Model,F08_linear_discriminant_analysis,Linear Discriminant Analysis,1,32,3.12
+Machine Learning Model,F08_logistic_regression_feature_screening_only,Logistic Regression (feature screening only),1,32,3.12
+Machine Learning Model,F08_naive_bayes,Naive Bayes,1,32,3.12
+Machine Learning Model,F08_other_regression_models,Other Regression Models,1,32,3.12
+Machine Learning Model,F08_soft_voting_ensemble,Soft-Voting Ensemble,1,32,3.12
+Machine Learning Model,F08_stacked_ensemble_random_forest_extra_trees_linear_svm_xgboost_logistic_regression,"Stacked Ensemble (Random Forest, Extra Trees, Linear SVM, XGBoost, Logistic Regression)",1,32,3.12
+Machine Learning Model,F08_support_vector_regression,Support Vector Regression,1,32,3.12
