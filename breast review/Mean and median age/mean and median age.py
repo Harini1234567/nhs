@@ -10,7 +10,7 @@ Studies that reported no overall age (NR, or only subgroup ages) are blank in
 both columns and so are left out.
 
 Usage:
-    python plot_mean_and_median_age.py Data_Extraction.xlsx
+    python "mean and median age.py" Data_Extraction.xlsx
 """
 import sys
 
@@ -23,7 +23,7 @@ FILE = sys.argv[1] if len(sys.argv) > 1 else "Data_Extraction.xlsx"
 SHEET = "Copy of Table cleaning"
 MEAN_COL = "Mean age 2"
 MEDIAN_COL = "Median age"
-OUTPUT = "mean_and_median_age.png"
+OUTPUT = "mean and median age of participants.png"
 
 # ---- Load -----------------------------------------------------------------
 df = pd.read_excel(FILE, sheet_name=SHEET)
