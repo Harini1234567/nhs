@@ -2,7 +2,7 @@
 Breast review – bar chart for the column:
     Model – explanation level: Global only; Global + patient-level (local); None
 
-Reads the "Copy of Table cleaning" sheet of Data_Extraction.xlsx, counts the
+Reads the "Final Table" sheet of Data_Extraction.xlsx, counts the
 number of studies in each category of this column and plots a bar chart.
 
 One answer per study.
@@ -18,7 +18,7 @@ import pandas as pd
 
 # ---- Settings -------------------------------------------------------------
 FILE = sys.argv[1] if len(sys.argv) > 1 else "Data_Extraction.xlsx"
-SHEET = "Copy of Table cleaning"
+SHEET = "Final Table"
 COLUMN = 'Model – explanation level: Global only; Global + patient-level (local); None'
 CHART_TITLE = 'Model – explanation level'
 OUTPUT = 'model_explanation_level.png'

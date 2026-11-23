@@ -2,7 +2,7 @@
 Breast review – bar chart for the column:
     Retrospective or Prospective
 
-Reads the "Copy of Table cleaning" sheet of Data_Extraction.xlsx, counts the
+Reads the "Final Table" sheet of Data_Extraction.xlsx, counts the
 number of studies in each category of this column and plots a bar chart.
 
 Some cells contain free-text notes; these are grouped into short
@@ -19,7 +19,7 @@ import pandas as pd
 
 # ---- Settings -------------------------------------------------------------
 FILE = sys.argv[1] if len(sys.argv) > 1 else "Data_Extraction.xlsx"
-SHEET = "Copy of Table cleaning"
+SHEET = "Final Table"
 COLUMN = 'Retrospective or Prospective'
 CHART_TITLE = 'Retrospective or Prospective'
 OUTPUT = 'retrospective_or_prospective.png'

@@ -12,7 +12,7 @@ import pandas as pd
 
 # ---- Settings -------------------------------------------------------------
 FILE = sys.argv[1] if len(sys.argv) > 1 else "Data_Extraction.xlsx"
-SHEET = "Copy of Table cleaning"
+SHEET = "Final Table"
 YEAR_COL = "Year of Publication"
 OUTPUT = "publications_per_year.png"
 

@@ -1,7 +1,7 @@
 """
 Breast review – mean age and median age of study participants.
 
-Reads the "Copy of Table cleaning" sheet of Data_Extraction.xlsx and draws two
+Reads the "Final Table" sheet of Data_Extraction.xlsx and draws two
 horizontal box plots on one chart: one for the studies that reported a mean age
 (column "Mean age 2") and one for the studies that reported a median age
 (column "Median age"). Each dot is one study.
@@ -20,7 +20,7 @@ import pandas as pd
 
 # ---- Settings -------------------------------------------------------------
 FILE = sys.argv[1] if len(sys.argv) > 1 else "Data_Extraction.xlsx"
-SHEET = "Copy of Table cleaning"
+SHEET = "Final Table"
 MEAN_COL = "Mean age 2"
 MEDIAN_COL = "Median age"
 OUTPUT = "mean and median age of participants.png"

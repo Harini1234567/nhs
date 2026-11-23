@@ -2,7 +2,7 @@
 Breast review – bar chart for the column:
     Model – explainability method: Post-hoc model-agnostic (e.g SHAP/LIME); Model-specific importance (e.g. RF/XGB importance); Intrinsic (e.g. coefficients); None reported
 
-Reads the "Copy of Table cleaning" sheet of Data_Extraction.xlsx, counts the
+Reads the "Final Table" sheet of Data_Extraction.xlsx, counts the
 number of studies in each category of this column and plots a bar chart.
 
 This column can hold several answers separated by ";", so each study is
@@ -19,7 +19,7 @@ import pandas as pd
 
 # ---- Settings -------------------------------------------------------------
 FILE = sys.argv[1] if len(sys.argv) > 1 else "Data_Extraction.xlsx"
-SHEET = "Copy of Table cleaning"
+SHEET = "Final Table"
 COLUMN = 'Model – explainability method: Post-hoc model-agnostic (e.g SHAP/LIME); Model-specific importance (e.g. RF/XGB importance); Intrinsic (e.g. coefficients); None reported'
 CHART_TITLE = 'Model – explainability method'
 OUTPUT = 'model_explainability_method.png'
